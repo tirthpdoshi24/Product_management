@@ -1,0 +1,7 @@
+1 API - > To generate token and validate
+2 Create product API -> Product Name, Description, Price, Category
+3 Update product API -> Existing Name, Category, New Name, New Description, New Price, New Category
+4 Delete prodcut -> Product Name,Category
+5 Search product -> Name, category, price, description
+6 List of all prodcut ->
+7 Create Category -> Category Name
